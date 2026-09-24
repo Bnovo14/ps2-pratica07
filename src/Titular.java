@@ -1,0 +1,1 @@
+public record Titular (long nroTitular, String nome, String rg, String cpf) {}
